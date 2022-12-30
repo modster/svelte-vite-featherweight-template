@@ -1,4 +1,16 @@
 {
+  "name": "featherweight-svelte-kit",
+  "version": "0.1.0",
+  "description": "Barebones sveltekit app made with ♥ from scratch.",
+  "keywords": [
+    "svelte",
+    "sveltekit",
+    "vite",
+    "featherweight",
+    "barebones",
+    "starter",
+    "template"
+  ],
   "type": "module",
   "scripts": {
     "dev": "vite dev",
